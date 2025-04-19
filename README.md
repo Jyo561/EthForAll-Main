@@ -62,6 +62,8 @@ Tailwind CSS is a utility-first CSS framework that is designed to make it easy t
 
 - Solidity :
 
+Will make a new app in python
+
 - Hardhat :
 
 ## Contributors
