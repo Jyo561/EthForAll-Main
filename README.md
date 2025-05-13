@@ -1,5 +1,7 @@
 # FAPP - The Ultimate Freelancing DAPP
 
+## Update 
+Time to remake this in rust and solana
 ## Introduction
 
 ## Configuration
@@ -69,3 +71,4 @@ Will make a new app in python
 ## Contributors
 
 ## Links
+
